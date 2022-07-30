@@ -1,5 +1,5 @@
 /** ****************************************************************************
- * TALLER N°1 - EJERCICIO N° - LOGICA DE PROGRAMACION
+ * TALLER N°1 - EJERCICIO N°3 - LOGICA DE PROGRAMACION
  * 29/07/2022
  * ANDRES BENJUMEA REINOSO
  * 000491320
@@ -32,7 +32,7 @@ Datos de entrada: valor de la cuenta sin propina ni impuestos, satisfaccion
 Funciones: Calcular_Propina, Valor_Total
 Datos de salida: String con el valor final de la cuenta
 
-FUNCIONAMIENTO: Se ingresa primero la satisfaccion del 1 al 3
+FUNCIONAMIENTO: Se ingresa primero la satisfaccion del 1 al 3, luego calcula la propina segun la satisfaccion, la agrega al valor de la cuenta y posteriormente calcula el valor final de la cuenta sumandole el impuesto de consumo.
 
  */
 package logica_programacion.Taller_1;
