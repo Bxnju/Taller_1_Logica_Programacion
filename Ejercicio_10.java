@@ -2,7 +2,7 @@
  * TALLER N°1 - EJERCICIO N°10 - LOGICA DE PROGRAMACION
  * 30/07/2022
  * ANDRES BENJUMEA REINOSO
- * 000491320
+ * ID: 000491320
  ****************************************************************************** */
 
 /*
